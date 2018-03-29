@@ -1,0 +1,32 @@
+[
+	{
+		"market_id": 52,
+		"broker_selling": "AVA",
+		"broker_buying": "AVA",
+		"volume": 1500,
+		"price": 17.66,
+		"trade_type": "AUTO",
+		"trade_timestamp": 1522320291252,
+		"tick_timestamp": 1522320291252
+	},
+	{
+		"market_id": 52,
+		"broker_selling": "SHB",
+		"broker_buying": "ENS",
+		"volume": 926,
+		"price": 17.5,
+		"trade_type": "AUTO",
+		"trade_timestamp": 1522319941278,
+		"tick_timestamp": 1522319941278
+	},
+	{
+		"market_id": 52,
+		"broker_selling": "SHB",
+		"broker_buying": "AVA",
+		"volume": 50,
+		"price": 17.5,
+		"trade_type": "AUTO",
+		"trade_timestamp": 1522318176052,
+		"tick_timestamp": 1522318176052
+	}
+]
