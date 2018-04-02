@@ -1,10 +1,10 @@
 {
-	"direct_profit": 0.0,
+	"directProfit": 0.0,
 	"ps": 10.34,
-	"dividend_share": 0.0,
-	"dividend_profit": -0.12,
-	"asset_value_per_share": 7.82,
-	"profit_per_share": -0.97,
-	"dividend_asset": 2.24,
+	"dividendShare": 0.0,
+	"dividendProfit": -0.12,
+	"assetValuePerShare": 7.82,
+	"profitPerShare": -0.97,
+	"dividendAsset": 2.24,
 	"pe": -18.8
 }

@@ -1,0 +1,16 @@
+[
+	{
+		"url": "/instruments/SE0007692124",
+		"name": "IMINT Image Intelligence AB",
+		"symbol": "IMINT",
+		"isin": "SE0007692124",
+		"list": "AktieTorget",
+		"currency": "SEK",
+		"depth": "/instruments/SE0007692124/depth",
+		"price": "/instruments/SE0007692124/price",
+		"prices": "/instruments/SE0007692124/prices",
+		"returns": "/instruments/SE0007692124/returns",
+		"statistics": "/instruments/SE0007692124/statistics",
+		"trades": "/instruments/SE0007692124/trades"
+	}
+]

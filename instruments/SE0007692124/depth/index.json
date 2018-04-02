@@ -1,5 +1,5 @@
 {
-	"tick_timestamp": 1522320867440,
+	"tick": 1522320867440,
 	"bids": [
 		{ "price": 17.66, "volume": 500, "count": 1 },
 		{ "price": 17.5, "volume": 3074,"count": 1 },
