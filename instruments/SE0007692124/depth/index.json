@@ -1,4 +1,5 @@
 {
+	"url": "/instruments/SE0007692124/depth",
 	"tick": 1522320867440,
 	"bids": [
 		{ "price": 17.66, "volume": 500, "count": 1 },

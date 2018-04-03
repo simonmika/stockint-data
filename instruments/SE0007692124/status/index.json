@@ -1,4 +1,5 @@
 {
+	"url": "/instruments/SE0007692124/status",
 	"tick": 1522322403961,
 	"time": 1522320291252,
 	"bid": { "price": 17.66, "volume": 500 },
@@ -8,7 +9,7 @@
 	"low": 17.1,
 	"open": 17.48,
 	"close": 17.66,
-	"vwap": 17.31,
+	"averagePrice": 17.31,
 	"turnover": { "amount": 135382.86, "volume": 7818},
 	"lotSize": 1
 }
