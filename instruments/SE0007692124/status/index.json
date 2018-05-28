@@ -1,5 +1,5 @@
 {
-	"url": "/instruments/SE0007692124/status",
+	"url": "https://stockint.github.io/data/instruments/SE0007692124/status",
 	"tick": 1522322403961,
 	"time": 1522320291252,
 	"bid": { "price": 17.66, "volume": 500 },

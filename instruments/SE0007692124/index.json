@@ -1,14 +1,14 @@
 {
-	"url": "/instruments/SE0007692124",
+	"url": "https://stockint.github.io/data/instruments/SE0007692124",
 	"name": "IMINT Image Intelligence AB",
 	"symbol": "IMINT",
 	"isin": "SE0007692124",
 	"list": "AktieTorget",
 	"currency": "SEK",
-	"depth": "/instruments/SE0007692124/depth",
-	"status": "/instruments/SE0007692124/status",
-	"prices": "/instruments/SE0007692124/prices",
-	"returns": "/instruments/SE0007692124/returns",
-	"statistics": "/instruments/SE0007692124/statistics",
-	"trades": "/instruments/SE0007692124/trades"
+	"depth": "https://stockint.github.io/data/instruments/SE0007692124/depth",
+	"status": "https://stockint.github.io/data/instruments/SE0007692124/status",
+	"prices": "https://stockint.github.io/data/instruments/SE0007692124/prices",
+	"returns": "https://stockint.github.io/data/instruments/SE0007692124/returns",
+	"statistics": "https://stockint.github.io/data/instruments/SE0007692124/statistics",
+	"trades": "https://stockint.github.io/data/instruments/SE0007692124/trades"
 }
